@@ -1,0 +1,1 @@
+# mahjong_point_calculator
